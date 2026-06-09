@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/banner.png" alt="banner" width="100%" />
+
 # 🗺️ European Wellbeing Recipe Finder
 
 **Discover what makes Europeans thrive — interactive wellbeing insights across 208 regions**
